@@ -13,3 +13,12 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+# buildspace
+
+Now we need to actually
+
+1. Compile it.
+2. Deploy it to our local blockchain.
+3. Once it's there, that `console.log` will run :).
+   We need to do this because in the real world, smart contracts live on the blockchain. And, we want our website and smart contract to be used by real people so they can 👋 at us or do whatever you want them to do!
